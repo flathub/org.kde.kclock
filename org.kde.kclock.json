@@ -37,8 +37,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/plasma-mobile/21.07/kclock-21.07.tar.xz", 
-                    "sha256": "c43c2f2b2f8b046e061ef16079c98c8f2b00d5724a2dfef5ca86677e3131222c" 
+                    "url": "https://download.kde.org/stable/plasma-mobile/21.08/kclock-21.08.tar.xz", 
+                    "sha256": "ed901efdfbf7c8d3164443815cbecc156e4e7ad85563f79a59839ec6697700ff" 
                 }
             ]
         }
