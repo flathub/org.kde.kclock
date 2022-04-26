@@ -44,8 +44,8 @@
             "sources": [ 
                 { 
                     "type": "archive", 
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.02/kclock-22.02.tar.xz", 
-                    "sha256": "eec9df9e110d54dfd4fd03eebae63d07300f072a3dacd166a4d470d69a2aa182",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.04/kclock-22.04.tar.xz", 
+                    "sha256": "66367c04c939b8d3ab5b35e82ea32f9d5379dc07e8bda6dcaf78b4e60bb294f9",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
