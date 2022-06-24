@@ -17,15 +17,16 @@
         "--talk-name=org.kde.Solid.PowerManagement",
         "--own-name=org.kde.kclockd"
     ],
-
     "modules": [
         {
             "name": "kirigamiaddons",
-            "config-opts": [ "-DBUILD_TESTING=OFF" ],
+            "config-opts": [
+                "-DBUILD_TESTING=OFF"
+            ],
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
+            "sources": [
+                {
+                    "type": "archive",
                     "url": "https://download.kde.org/unstable/kirigami-addons/0.2/kirigami-addons-0.2.tar.xz",
                     "sha256": "f8be68831c3261cfd2ffd84b61530cdf84c9cc5f26101d0c48e185b7f0017092",
                     "x-checker-data": {
@@ -34,18 +35,21 @@
                         "stable-only": true,
                         "url-template": "https://download.kde.org/unstable/kirigami-addons/$version/kirigami-addons-$version.tar.xz"
                     }
-                } 
+                }
             ]
         },
         {
             "name": "kclock",
-            "config-opts": [ "-DBUILD_TESTING=OFF", "-DCMAKE_BUILD_TYPE=RelWithDebInfo" ],
+            "config-opts": [
+                "-DBUILD_TESTING=OFF",
+                "-DCMAKE_BUILD_TYPE=RelWithDebInfo"
+            ],
             "buildsystem": "cmake-ninja",
-            "sources": [ 
-                { 
-                    "type": "archive", 
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.04/kclock-22.04.tar.xz", 
-                    "sha256": "66367c04c939b8d3ab5b35e82ea32f9d5379dc07e8bda6dcaf78b4e60bb294f9",
+            "sources": [
+                {
+                    "type": "archive",
+                    "url": "https://download.kde.org/stable/plasma-mobile/22.06/kclock-22.06.tar.xz",
+                    "sha256": "32ef3245b6387418abc6a63750c142b375b14bc63b15cb650fb0dcc1567fa2e5",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
