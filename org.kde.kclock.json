@@ -27,13 +27,13 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/unstable/kirigami-addons/0.4/kirigami-addons-0.4.tar.xz",
-                    "sha256": "be95b504fee01ea76ebc8c429b5700d2f4245be893cbac7f03f778b92e962d91",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-0.5.tar.xz",
+                    "sha256": "1b1a4d65cfeabe5406e5d2837fe3f6c63ac60b7b72db2c957552c8b47108b9b3",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/unstable/kirigami-addons/$version/kirigami-addons-$version.tar.xz"
+                        "url-template": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-$version.tar.xz"
                     }
                 }
             ]
