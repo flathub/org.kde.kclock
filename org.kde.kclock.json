@@ -18,7 +18,9 @@
     "modules": [
         {
             "name": "intltool",
-            "cleanup": [ "*" ],
+            "cleanup": [
+                "*"
+            ],
             "sources": [
                 {
                     "type": "archive",
@@ -63,8 +65,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-0.6.1.tar.xz",
-                    "sha256": "2a399afa29ea5ad2c74f5b20e52055aebc43867405596e16b9b1ebe0d000d7d2",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-0.7.0.tar.xz",
+                    "sha256": "0132a58b150229544a61e17e792c48cfc6daa03a8be9c7acd873a6c30d283df7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -84,8 +86,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma-mobile/22.11/kclock-22.11.tar.xz",
-                    "sha256": "a48c8eb50af485bb12d872be7674ed56e3887b4619b47438c1e385bddc27660b",
+                    "url": "https://download.kde.org/stable/plasma-mobile/23.01.0/kclock-23.01.0.tar.xz",
+                    "sha256": "397c0d8f5fd5792cfeaa629af38bff5f9611519608e83fa99018a7889950ad3b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
