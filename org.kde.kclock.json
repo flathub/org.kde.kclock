@@ -90,9 +90,9 @@
                     "sha256": "39d5b65116631d8a064c63fce3728f719689359460523cc0f1b4ca79fcd9c1e6",
                     "x-checker-data": {
                         "type": "anitya",
-                        "project-id": 241420,
+                        "project-id": 368663,
                         "stable-only": true,
-                        "url-template": "https://download.kde.org/stable/release-service/$version/src/kclock-$version.tar.xz"
+                        "url-template": "https://download.kde.org/unstable/release-service/$version/src/kclock-$version.tar.xz"
                     }
                 }
             ]
