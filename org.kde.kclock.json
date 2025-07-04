@@ -53,8 +53,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.8.1.tar.xz",
-                    "sha256": "00028ae4df99e250518345ea28d9cdf49d700e9acac482734bb51384da11f945",
+                    "url": "https://download.kde.org/stable/kirigami-addons/kirigami-addons-1.9.0.tar.xz",
+                    "sha256": "21314a91f26b1c962def3fd7ff2e762d3358b075f63f4d7e0144fb2c63b7ebc7",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 242933,
@@ -74,8 +74,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.3.5/libplasma-6.3.5.tar.xz",
-                    "sha256": "5012c83d2da265de960709b4f2138f3978aa44e1fb2bb0d6b3ef95de98e6eae4",
+                    "url": "https://download.kde.org/stable/plasma/6.4.2/libplasma-6.4.2.tar.xz",
+                    "sha256": "a9bb5532e6efb30833c76b5e2e0fb1ce1aae540beb6813b69163d20b96d560ac",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
