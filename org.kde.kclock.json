@@ -75,8 +75,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.0/src/kclock-25.12.0.tar.xz",
-                    "sha256": "8947a4a9510e2d9fae49238cc267c015cc1b1c91e02cd072f02da7f02052af23",
+                    "url": "https://download.kde.org/stable/release-service/25.12.1/src/kclock-25.12.1.tar.xz",
+                    "sha256": "e0367d9a089d262844c4e925dd7a1b39057e2584b786fc640a603edf2e723335",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
