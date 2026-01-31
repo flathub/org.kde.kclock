@@ -15,6 +15,11 @@
         "--talk-name=org.kde.Solid.PowerManagement",
         "--own-name=org.kde.kclockd"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         "shared-modules/intltool/intltool-0.51.json",
         {
