@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.6.2/libplasma-6.6.2.tar.xz",
-                    "sha256": "5e6b889bce201acf7d46bbff1970e6f84a711f44b207fe103aaf37a244da994b",
+                    "url": "https://download.kde.org/stable/plasma/6.6.4/libplasma-6.6.4.tar.xz",
+                    "sha256": "cc7dfd90b4caba4b2b4da1eb5d6c7aaa20b72b9770f511cbc433eadcc5b8e483",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
@@ -80,8 +80,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.12.3/src/kclock-25.12.3.tar.xz",
-                    "sha256": "8cb4b1d502ad04abf04e5d76ed476a607dda885d282bfc367d218588fb8f3e45",
+                    "url": "https://download.kde.org/stable/release-service/26.04.0/src/kclock-26.04.0.tar.xz",
+                    "sha256": "6dabc156709dcfbf93cda41c81e5dd5bda44efc93ab5d9f527fc26fba471483c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
