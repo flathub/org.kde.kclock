@@ -59,8 +59,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/plasma/6.7.0/libplasma-6.7.0.tar.xz",
-                    "sha256": "8a85e4c9eb2c3c00b5683cce3aa2c949d06b956c88789c1b1c110b6abae20312",
+                    "url": "https://download.kde.org/stable/plasma/6.7.2/libplasma-6.7.2.tar.xz",
+                    "sha256": "133d8de5f00ad0d15b515ea9f13bc64fac7f7f52d077243dc8dfee16323f9f8c",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8761,
