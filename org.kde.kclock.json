@@ -55,14 +55,13 @@
                 "-DBUILD_TESTING=OFF",
                 "-DCMAKE_BUILD_TYPE=RelWithDebInfo",
                 "-DBUILD_PLASMOID=OFF"
-
             ],
             "buildsystem": "cmake-ninja",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/26.08.1/src/kclock-26.08.1.tar.xz",
-                    "sha256": "60a1a3048bf5d508dfe6dfbf0cc70f9a6041d33476f579a23dc67325368a8de7",
+                    "url": "https://download.kde.org/stable/release-service/26.08.3/src/kclock-26.08.3.tar.xz",
+                    "sha256": "c3d16e7b105bc25f8d277c686dbff272c756b363a8da50d555e895f80d182c2b",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 241420,
